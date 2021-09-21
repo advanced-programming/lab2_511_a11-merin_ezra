@@ -8,8 +8,8 @@
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Author        	Date      	Version     Comments on this revision
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Serge Hould      2021-09-15  V1.0        First version of source file
- *
+ * Thommaipillai    21/09/2021  Alpha 1.0   Started coding encoder.c
+ * Kaushikmerin                             added case statements for each handler 
  * 
  * 	TODO: 
  * 		
