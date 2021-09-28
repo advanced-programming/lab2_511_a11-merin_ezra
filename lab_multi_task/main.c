@@ -14,6 +14,12 @@
  *                                          first version of soft_com.c 
  *                                          and soft_com.h 
  * 
+ * Ezra-Fikru Asfaw 2021-09-21  V1.1        Created and worked on the 
+ *                                          second version of soft_com.c. 
+ *                                          Most precisely on SM_RETR, 
+ *                                          SM_START_BIT, SM_SEND_BIT, 
+ *                                          and SM_STOP_BIT
+ *                                          
  * 	TODO: work on getcnt
  * 		
  *******************************************************************************/
@@ -25,7 +31,7 @@
     
 int main( void){
    
-
+void softComTask();
     while(1){
 
     }
