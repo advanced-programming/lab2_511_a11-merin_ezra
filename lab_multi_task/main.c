@@ -11,20 +11,24 @@
  * Thommaipillai    21/09/2021  Alpha 1.0   Started coding encoder.c
  * Kaushikmerin                             added case statements for each handler 
  * 
- * 	TODO: 
+ *Thommaipillai     28/09/2021  Alpha 1.1   Finished state machine case statements
+ *Kaushikmerin                              and added code to function with board
  * 		
  *******************************************************************************/
 
 #include <xc.h>
 #include "Tick_core.h"
 #include <stdio.h>
+#include "initBoard.h"
+#include "encoder.h"
 
     
 int main( void){
-   
 
     while(1){
-
+        
+        task1();
+        
     }
 
 }// main

@@ -52,17 +52,21 @@ void initIO(void)
     TRISAbits.TRISA0 = 0;       //LED D3
     
    
-    TRISDbits.TRISD6 =1; //S3
+    TRISDbits.TRISD6 =1; //S3 
     TRISDbits.TRISD7 =1;//S6
     TRISDbits.TRISD13 =1;//S4
     TRISAbits.TRISA6 =1; //S5 - shared with LED D9
+    
+    TRISDbits.TRISD0 = 1;
+    TRISBbits.TRISB0 = 1;
+    TRISBbits.TRISB6 = 1;
 	
      //TRISFbits.TRISF5=0; // TX
     
     /* Turns off all LEDs*/
      LATA = LATA & 0xffff0000;
      
-     
+     _PCFG0 = 1;
        
 }
  

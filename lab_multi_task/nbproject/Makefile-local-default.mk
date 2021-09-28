@@ -15,23 +15,24 @@
 # $ makeMP_CC="/opt/microchip/mplabc30/v3.30c/bin/pic30-gcc" ...  
 #
 SHELL=cmd.exe
-PATH_TO_IDE_BIN=C:/Program Files (x86)/Microchip/MPLABX/v5.10/mplab_platform/platform/../mplab_ide/modules/../../bin/
+PATH_TO_IDE_BIN=D:/MPLAB/mplab_platform/platform/../mplab_ide/modules/../../bin/
 # Adding MPLAB X bin directory to path.
-PATH:=C:/Program Files (x86)/Microchip/MPLABX/v5.10/mplab_platform/platform/../mplab_ide/modules/../../bin/:$(PATH)
+PATH:=D:/MPLAB/mplab_platform/platform/../mplab_ide/modules/../../bin/:$(PATH)
 # Path to java used to run MPLAB X when this makefile was created
-MP_JAVA_PATH="C:\Program Files (x86)\Microchip\MPLABX\v5.10\sys\java\jre1.8.0_181/bin/"
+MP_JAVA_PATH="D:\MPLAB\sys\java\jre1.8.0_181/bin/"
 OS_CURRENT="$(shell uname -s)"
-MP_CC="C:\Program Files\Microchip\xc32\v2.41\bin\xc32-gcc.exe"
-MP_CPPC="C:\Program Files\Microchip\xc32\v2.41\bin\xc32-g++.exe"
+MP_CC="D:\MPLAB\bin\xc32-gcc.exe"
+MP_CPPC="D:\MPLAB\bin\xc32-g++.exe"
 # MP_BC is not defined
-MP_AS="C:\Program Files\Microchip\xc32\v2.41\bin\xc32-as.exe"
-MP_LD="C:\Program Files\Microchip\xc32\v2.41\bin\xc32-ld.exe"
-MP_AR="C:\Program Files\Microchip\xc32\v2.41\bin\xc32-ar.exe"
-DEP_GEN=${MP_JAVA_PATH}java -jar "C:/Program Files (x86)/Microchip/MPLABX/v5.10/mplab_platform/platform/../mplab_ide/modules/../../bin/extractobjectdependencies.jar"
-MP_CC_DIR="C:\Program Files\Microchip\xc32\v2.41\bin"
-MP_CPPC_DIR="C:\Program Files\Microchip\xc32\v2.41\bin"
+MP_AS="D:\MPLAB\bin\xc32-as.exe"
+MP_LD="D:\MPLAB\bin\xc32-ld.exe"
+MP_AR="D:\MPLAB\bin\xc32-ar.exe"
+DEP_GEN=${MP_JAVA_PATH}java -jar "D:/MPLAB/mplab_platform/platform/../mplab_ide/modules/../../bin/extractobjectdependencies.jar"
+MP_CC_DIR="D:\MPLAB\bin"
+MP_CPPC_DIR="D:\MPLAB\bin"
 # MP_BC_DIR is not defined
-MP_AS_DIR="C:\Program Files\Microchip\xc32\v2.41\bin"
-MP_LD_DIR="C:\Program Files\Microchip\xc32\v2.41\bin"
-MP_AR_DIR="C:\Program Files\Microchip\xc32\v2.41\bin"
+MP_AS_DIR="D:\MPLAB\bin"
+MP_LD_DIR="D:\MPLAB\bin"
+MP_AR_DIR="D:\MPLAB\bin"
 # MP_BC_DIR is not defined
+DFP_DIR="D:/MPLAB/packs/Microchip/PIC32MX_DFP/1.2.228"
