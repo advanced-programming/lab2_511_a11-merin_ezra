@@ -14,7 +14,7 @@
  *                                          first version of soft_com.c 
  *                                          and soft_com.h 
  * 
- * Ezra-Fikru Asfaw 2021-09-21  V1.1        Created and worked on the 
+ * Ezra-Fikru Asfaw 2021-09-28  V1.1        Created and worked on the 
  *                                          second version of soft_com.c. 
  *                                          Most precisely on SM_RETR, 
  *                                          SM_START_BIT, SM_SEND_BIT, 
