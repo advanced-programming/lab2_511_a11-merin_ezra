@@ -46,22 +46,24 @@ return count;
  
 
 void softComTask(void) { 
-int32_t rx=0;
-int32_t delay = 10; //temporary vale for counter
-int size = 5;
-int i;
+//int32_t rx=0;
+//int32_t delay = 10; //temporary vale for counter
+static char cChar[]="three";
+//int size = sizeof(cChar);
+static int i;
 
-int new_value;
-int acsii_value;
-int mask_acsii_value;
-char cChar[]="three";
-int serial[9];
+static int size = 5;
+static int new_value = 'a';
+static int acsii_value;
+//int mask_acsii_value;
+
+//int serial[9];
 
 //queue = xQueueCreate(1);
 
 
 
- 	static enum {SM_POLL, SM_POLL_HANDLER, SM_RETR_ENTRY, SM_START_BIT_ENTRY,SM_START_BIT_HANDLER, SM_SEND_BITS_ENTRY,SM_SEND_BITS_HANDLER, SM_STOP_BIT_ENTRY, SM_STOP_BIT_HANDLER} state= SM_POLL; 
+ 	static enum {SM_POLL, SM_POLL_HANDLER, SM_RETR_ENTRY, SM_START_BIT_ENTRY,SM_START_BIT_HANDLER, SM_SEND_BITS_ENTRY,SM_SEND_BITS_HANDLER, SM_STOP_BIT_ENTRY, SM_STOP_BIT_HANDLER} state= SM_SEND_BITS_ENTRY;
 
  
 
@@ -74,6 +76,7 @@ int serial[9];
 //            } 
            
             break;    
+            
             
     //////////////SM_RETR/////////////////        
         case SM_RETR_ENTRY:
@@ -92,7 +95,7 @@ int serial[9];
         
     //////////////SM_START_BIT/////////////////          
         case SM_START_BIT_ENTRY:
-            serial[0] = 0; 
+            LATFbits.LATF5 = 0; 
             state = SM_START_BIT_HANDLER;
             break;
               
@@ -106,44 +109,42 @@ int serial[9];
     //////////////SM_SEND_BITS/////////////////  
             
         case SM_SEND_BITS_ENTRY:
-             if(TickDiff(lastTick)>= TIMEOUT_START){
-                lastTick=TickGet();
-                state = SM_SEND_BITS_ENTRY;
-            }
-            else {
-                 
-                 state = SM_SEND_BITS_HANDLER;
-            }   
+            acsii_value = new_value;
+            count = 1;
+            LATFbits.LATF5 = acsii_value & 0x01; //mask
+            state = SM_SEND_BITS_HANDLER;   
             break;
 
             
             
         case SM_SEND_BITS_HANDLER:
-//         if(TickDiff(lastTick)>= TIMEOUT_START){    
-//            lastTick=TickGet();
+         if(TickDiff(lastTick)>= TIMEOUT_START){    
+            lastTick=TickGet();
             
-            if( count >=1 && count <= 8){
-                acsii_value = (int) new_value;
+            if( count < 8){
+                
                 acsii_value = acsii_value>>1; //shift
-                serial[count+1] = acsii_value & 0x01; //mask
+                LATFbits.LATF5 = acsii_value & 0x01; //mask
                 count++;
-                state = SM_SEND_BITS_ENTRY;
-               
-            }
-            else if (count == 0){
-                acsii_value = (int) new_value;
-                serial[count+1] = acsii_value & 0x01; //mask
-                count++;
-            
+                state = SM_SEND_BITS_HANDLER;
             }
             
-            else state = SM_STOP_BIT_ENTRY;
-			break;  
+            state = SM_STOP_BIT_ENTRY;
+         }
+         else {
+                lastTick = TickGet();
+                state = SM_STOP_BIT_ENTRY;
+                SM_SEND_BITS_HANDLER;
+                break;  
+                
+            }
+     
+        
             
             
     //////////////SM_STOP_BIT/////////////////                
         case SM_STOP_BIT_ENTRY:
-            serial[9] = 1; 
+            LATFbits.LATF5 = 1; 
             state = SM_STOP_BIT_HANDLER;
             break;
             
