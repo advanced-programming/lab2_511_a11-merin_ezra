@@ -31,6 +31,8 @@ int main( void){
     while(1){
         
         task1();
+        //delay_us(100);
+        idleTask();
         
     }
 
