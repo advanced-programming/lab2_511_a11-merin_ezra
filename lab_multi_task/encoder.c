@@ -87,11 +87,12 @@ void task1(void) {
                 
                 cnt = 0;
                 state = SM_INITIATE;
-                
+                 
             }
             else if(encoderA == 1 && encoderB == 1) {
                 
-                cnt--;
+                cnt--; 
+                LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
                 fprintf2(C_LCD, buf);
                 state = SM3_HANDLER;
@@ -100,6 +101,7 @@ void task1(void) {
             else if(encoderA == 0 && encoderB == 0){
                 
                 cnt++;
+                LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
                 fprintf2(C_LCD, buf);
                 state = SM0_HANDLER;
@@ -117,14 +119,16 @@ void task1(void) {
             else if(encoderA == 0 && encoderB == 0) {
                 
                 cnt--;
+                LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
                 fprintf2(C_LCD, buf);
                 state = SM0_HANDLER;
-                 
+                  
             }
             else if(encoderA == 1 && encoderB == 1){
                 
                 cnt++; 
+                LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
                 fprintf2(C_LCD, buf);
                 state = SM3_HANDLER;
