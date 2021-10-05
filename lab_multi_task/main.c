@@ -23,7 +23,16 @@
  * Ezra-Fikru Asfaw 2021-09-28  V1.3        I modified SM_SEND_BIT_ENTRY
  *                                          and SM_SEND_BIT_HANDLER. I also 
  *                                          debug the code to understand the 
- *                                          flow of the code.         
+ *                                          flow of the code. 
+ * 
+  * Ezra-Fikru Asfaw 2021-09-28  V1.4       I modified SM_SEND_BIT_ENTRY
+ *                                          and SM_SEND_BIT_HANDLER, and 
+ *                                          SM_STOP_BIT. I was able to see 
+ *                                          the shift and mask on the LATF5.
+ *                                          However, I was not able to transmit
+ *                                          it from the board to Tera and the 
+ *                                          Oscilloscope.  
+ *         
  *                                          
  * 	TODO: 
  * 		
@@ -37,6 +46,8 @@
     
 int main( void){
    
+    
+    initIO();
     initSoftCom();
     while(1){
         softComTask();
