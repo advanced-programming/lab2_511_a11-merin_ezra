@@ -14,6 +14,9 @@
  *Thommaipillai     28/09/2021  Alpha 1.1   Finished state machine case statements
  *Kaushikmerin                              and added code to function with board
  * 		
+ * Thommaipillai    05/10/2021  2.0         Encoder task has been debugged and fixed
+ * Kaushikmerin                             with LED and idletask() was added to show CPU
+ *                                          usage. Next step is to merge.
  *******************************************************************************/
  
 #include <xc.h>
