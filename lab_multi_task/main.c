@@ -15,7 +15,7 @@
  *Kaushikmerin                              and added code to function with board
  * 		
  *******************************************************************************/
-
+ 
 #include <xc.h>
 #include "Tick_core.h"
 #include <stdio.h>
@@ -24,6 +24,9 @@
 
     
 int main( void){
+    
+    initIO();
+    initLCD();
 
     while(1){
         

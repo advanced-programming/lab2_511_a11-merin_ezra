@@ -3,121 +3,121 @@ Archive member included to satisfy reference by file (symbol)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(strlen.o)
                               build/default/production/console32.o (strlen)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
-                              C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o (_bootstrap_exception_handler)
+                              C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o (_bootstrap_exception_handler)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
-                              C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o (_on_reset)
+                              C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o (_on_reset)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o (_on_bootstrap)
+                              C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o (_on_bootstrap)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
-                              C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o (_nmi_handler)
+                              C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o (_nmi_handler)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
-                              C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o (__pic32_data_init)
+                              C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o (__pic32_data_init)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(general-exception.o)
-                              C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o (_general_exception_context)
+                              C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o (_general_exception_context)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector0.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_0)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_0)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector1.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_1)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_1)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector2.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_2)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_2)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector3.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_3)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_3)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector4.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_4)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_4)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector5.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_5)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_5)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector6.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_6)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_6)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector7.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_7)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_7)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector8.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_8)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_8)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector9.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_9)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_9)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector10.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_10)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_10)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector11.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_11)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_11)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector12.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_12)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_12)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector13.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_13)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_13)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector14.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_14)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_14)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector15.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_15)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_15)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector16.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_16)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_16)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector17.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_17)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_17)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector18.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_18)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_18)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector19.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_19)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_19)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector20.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_20)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_20)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector21.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_21)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_21)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector22.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_22)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_22)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector23.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_23)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_23)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector24.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_24)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_24)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector25.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_25)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_25)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector26.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_26)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_26)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector27.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_27)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_27)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector28.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_28)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_28)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector29.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_29)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_29)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector30.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_30)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_30)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector31.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_31)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_31)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector32.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_32)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_32)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector33.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_33)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_33)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector34.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_34)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_34)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector35.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_35)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_35)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector36.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_36)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_36)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector37.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_37)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_37)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector38.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_38)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_38)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector39.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_39)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_39)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector40.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_40)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_40)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector41.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_41)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_41)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector42.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_42)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_42)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector43.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_43)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_43)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector44.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_44)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_44)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector45.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_45)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_45)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector46.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_46)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_46)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector47.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_47)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_47)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector48.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_48)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_48)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector49.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_49)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_49)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector50.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_50)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_50)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(vector51.o)
-                              C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o (__vector_dispatch_51)
+                              C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o (__vector_dispatch_51)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
                               d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(general-exception.o) (_general_exception_handler)
 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
@@ -162,7 +162,6 @@ Optional file libmchp_peripheral_32MX795F512L.a not found
 Allocating common symbols
 Common symbol       size              file
 
-cnt                 0x4               build/default/production/encoder.o
 _uLCDloops          0x4               build/default/production/console32.o
 buf                 0x64              build/default/production/encoder.o
 
@@ -174,59 +173,59 @@ section                    address  length [bytes]      (dec)  Description
 .text                   0x9d000000         0x10e4        4324  App's exec code 
 .text._do_print_cdnopux 0x9d0010e4          0x764        1892   
 .text.malloc            0x9d001848          0x6d0        1744   
-.text                   0x9d001f18          0x648        1608  App's exec code 
-.dinit                  0x9d002560          0x570        1392   
-.text                   0x9d002ad0          0x7e4        2020  App's exec code 
-.text                   0x9d0032b4          0x364         868  App's exec code 
-.text.free              0x9d003618          0x268         616   
-.text                   0x9d003880          0x440        1088  App's exec code 
-.text                   0x9d003cc0          0x168         360  App's exec code 
-.text._sbrk_init        0x9d003e28          0x154         340   
-.text._mon_getc         0x9d003f7c          0x134         308   
-.text._mon_putc         0x9d0040b0          0x128         296   
-.text.malloc_trim       0x9d0041d8          0x104         260   
-.text._outcnvrt         0x9d0042dc           0xe8         232   
-.text.general_exception 0x9d0043c4           0xdc         220   
-.text._flsbuf_simple    0x9d0044a0           0xd4         212   
-.text._sbrk             0x9d004574           0xb0         176   
-.text.repl.constprop.0  0x9d004624           0xa8         168   
-.text                   0x9d0046cc           0xa8         168  App's exec code 
-.text.fputc             0x9d004774           0xa0         160   
-.text                   0x9d004814           0x84         132  App's exec code 
-.text._fwrite_simple    0x9d004898           0x74         116   
-.text._fflush_simple    0x9d00490c           0x70         112   
-.text._sprintf_cdnopuxX 0x9d00497c           0x60          96   
-.text.main_entry        0x9d0049dc           0x54          84   
-.text._mon_write        0x9d004a30           0x54          84   
-.text.sbrk              0x9d004a84           0x4c          76   
-.text._bootstrap_except 0x9d004ad0           0x48          72   
-.text._general_exceptio 0x9d004b18           0x48          72   
-.vector_default         0x9d004b60           0x48          72   
-.text                   0x9d004ba8           0x44          68  App's exec code 
-.text._filbuf_simple    0x9d004bec           0x34          52   
-.text._fsync_simple     0x9d004c20           0x30          48   
-.text._stub_sbd_memlayo 0x9d004c50           0x2c          44   
-.text.putchar           0x9d004c7c           0x24          36   
-.text                   0x9d004ca0           0x20          32  App's exec code 
-.rodata                 0x9d004cc0           0x20          32  Read-only const 
-.text._vfprintf_cdnopux 0x9d004ce0           0x1c          28   
-.text.putc              0x9d004cfc           0x1c          28   
-.MIPS.abiflags          0x9d004d18           0x18          24   
-.text                   0x9d004d30           0x18          24  App's exec code 
-.text._io_exit          0x9d004d48           0x14          20   
-.rodata                 0x9d004d5c           0x14          20  Read-only const 
-.text._io_exit          0x9d004d70           0x14          20   
-.rodata                 0x9d004d84           0x20          32  Read-only const 
-.text._on_reset         0x9d004da4            0x8           8   
-.text._on_bootstrap     0x9d004dac            0x8           8   
-.rodata.str1.4          0x9d004db4            0x8           8   
-.text._filbuf_string    0x9d004dbc            0x8           8   
-.text._flsbuf_string    0x9d004dc4            0x8           8   
-.text._fflush_string    0x9d004dcc            0x8           8   
-.text._fwrite_string    0x9d004dd4            0x8           8   
-.text._fsync_string     0x9d004ddc            0x8           8   
-.text.getpagesize       0x9d004de4            0x8           8   
-      Total kseg0_program_mem used  :      0x4dec       19948  3.8% of 0x80000
+.text                   0x9d001f18          0x67c        1660  App's exec code 
+.dinit                  0x9d002594          0x570        1392   
+.text                   0x9d002b04          0x7e4        2020  App's exec code 
+.text                   0x9d0032e8          0x364         868  App's exec code 
+.text.free              0x9d00364c          0x268         616   
+.text                   0x9d0038b4          0x440        1088  App's exec code 
+.text                   0x9d003cf4          0x168         360  App's exec code 
+.text._sbrk_init        0x9d003e5c          0x154         340   
+.text._mon_getc         0x9d003fb0          0x134         308   
+.text._mon_putc         0x9d0040e4          0x128         296   
+.text.malloc_trim       0x9d00420c          0x104         260   
+.text._outcnvrt         0x9d004310           0xe8         232   
+.text.general_exception 0x9d0043f8           0xdc         220   
+.text._flsbuf_simple    0x9d0044d4           0xd4         212   
+.text._sbrk             0x9d0045a8           0xb0         176   
+.text.repl.constprop.0  0x9d004658           0xa8         168   
+.text                   0x9d004700           0xa8         168  App's exec code 
+.text.fputc             0x9d0047a8           0xa0         160   
+.text                   0x9d004848           0x84         132  App's exec code 
+.text._fwrite_simple    0x9d0048cc           0x74         116   
+.text._fflush_simple    0x9d004940           0x70         112   
+.text._sprintf_cdnopuxX 0x9d0049b0           0x60          96   
+.text.main_entry        0x9d004a10           0x54          84   
+.text._mon_write        0x9d004a64           0x54          84   
+.text.sbrk              0x9d004ab8           0x4c          76   
+.text._bootstrap_except 0x9d004b04           0x48          72   
+.text._general_exceptio 0x9d004b4c           0x48          72   
+.vector_default         0x9d004b94           0x48          72   
+.text                   0x9d004bdc           0x44          68  App's exec code 
+.text._filbuf_simple    0x9d004c20           0x34          52   
+.text                   0x9d004c54           0x30          48  App's exec code 
+.text._fsync_simple     0x9d004c84           0x30          48   
+.text._stub_sbd_memlayo 0x9d004cb4           0x2c          44   
+.text.putchar           0x9d004ce0           0x24          36   
+.rodata                 0x9d004d04           0x20          32  Read-only const 
+.text._vfprintf_cdnopux 0x9d004d24           0x1c          28   
+.text.putc              0x9d004d40           0x1c          28   
+.MIPS.abiflags          0x9d004d60           0x18          24   
+.text                   0x9d004d78           0x18          24  App's exec code 
+.text._io_exit          0x9d004d90           0x14          20   
+.rodata                 0x9d004da4           0x14          20  Read-only const 
+.text._io_exit          0x9d004db8           0x14          20   
+.rodata                 0x9d004dcc           0x24          36  Read-only const 
+.text._on_reset         0x9d004df0            0x8           8   
+.text._on_bootstrap     0x9d004df8            0x8           8   
+.rodata.str1.4          0x9d004e00            0x8           8   
+.text._filbuf_string    0x9d004e08            0x8           8   
+.text._flsbuf_string    0x9d004e10            0x8           8   
+.text._fflush_string    0x9d004e18            0x8           8   
+.text._fwrite_string    0x9d004e20            0x8           8   
+.text._fsync_string     0x9d004e28            0x8           8   
+.text.getpagesize       0x9d004e30            0x8           8   
+      Total kseg0_program_mem used  :      0x4e34       20020  3.8% of 0x80000
 
 kseg0 Boot-Memory Usage
 section                    address  length [bytes]      (dec)  Description
@@ -298,7 +297,7 @@ section                    address  length [bytes]      (dec)  Description
 .bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
          Total kseg1_boot_mem used  :       0x1ac         428  36.6% of 0x490
         --------------------------------------------------------------------------
-         Total Program Memory used  :      0x5148       20808  3.9% of 0x81e00
+         Total Program Memory used  :      0x5190       20880  3.9% of 0x81e00
         --------------------------------------------------------------------------
 
 
@@ -306,22 +305,22 @@ kseg1 Data-Memory Usage
 section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
 .sdata                  0xa0000000            0x8           8  Small init data 
-.sbss                   0xa0000008           0x14          20  Small uninit data 
-.bss                    0xa000001c           0x64         100  Uninitialized data 
-.data                   0xa0000080          0x4e4        1252  Initialized data 
-.bss                    0xa0000564           0xbc         188  Uninitialized data 
-.bss                    0xa0000620           0x24          36  Uninitialized data 
-         Total kseg1_data_mem used  :       0x644        1604  1.2% of 0x20000
+.sbss                   0xa0000008           0x10          16  Small uninit data 
+.bss                    0xa0000018           0x64         100  Uninitialized data 
+.data                   0xa000007c          0x4e4        1252  Initialized data 
+.bss                    0xa0000560           0xbc         188  Uninitialized data 
+.bss                    0xa000061c           0x24          36  Uninitialized data 
+         Total kseg1_data_mem used  :       0x640        1600  1.2% of 0x20000
         --------------------------------------------------------------------------
-            Total Data Memory used  :       0x644        1604  1.2% of 0x20000
+            Total Data Memory used  :       0x640        1600  1.2% of 0x20000
         --------------------------------------------------------------------------
 
 
 Dynamic Data-Memory Reservation
 section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
-heap                    0xa0000648          0x1f8         504  Reserved for heap 
-stack                   0xa0000858        0x1f798      128920  Reserved for stack 
+heap                    0xa0000648          0x1f0         496  Reserved for heap 
+stack                   0xa0000850        0x1f7a8      128936  Reserved for stack 
 
         --------------------------------------------------------------------------
 
@@ -349,16 +348,16 @@ Discarded input sections
  .reginfo       0x0000000000000000       0x18 build/default/production/encoder.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 build/default/production/encoder.o
- .reginfo       0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
- .reginfo       0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
+                0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
- .reginfo       0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+                0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
- .discard       0x0000000000000000       0xd0 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+                0x0000000000000000       0x18 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
+ .discard       0x0000000000000000       0xd0 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
  .reginfo       0x0000000000000000       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
@@ -928,9 +927,9 @@ LOAD build/default/production/queue.o
 LOAD build/default/production/encoder.o
                 0x0000000000000001                __MPLAB_BUILD = 0x1
                 0x00000000000001f4                _min_heap_size = 0x1f4
-LOAD C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
-LOAD C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
-LOAD C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+LOAD C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
+LOAD C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
+LOAD C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
 LOAD d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
 LOAD d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a
 START GROUP
@@ -982,16 +981,16 @@ END GROUP
 
 .reset          0x00000000bfc00000      0x19c
  *(.reset)
- .reset         0x00000000bfc00000        0x8 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .reset         0x00000000bfc00000        0x8 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
                 0x00000000bfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0x00000000bfc00008      0x194 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+                0x00000000bfc00008      0x194 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
                 0x00000000bfc00008                _startup
 
 .bev_excpt      0x00000000bfc00380       0x10
  *(.bev_handler)
- .bev_handler   0x00000000bfc00380       0x10 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .bev_handler   0x00000000bfc00380       0x10 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
 
 .dbg_excpt      0x00000000bfc00480        0x0
                 0x00000000bfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -1001,7 +1000,7 @@ END GROUP
 
 .app_excpt      0x000000009fc01180       0x10
  *(.gen_handler)
- .gen_handler   0x000000009fc01180       0x10 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .gen_handler   0x000000009fc01180       0x10 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
 
 .vector_0       0x000000009fc01200        0x8
  *(.vector_0)
@@ -1499,30 +1498,29 @@ END GROUP
                 0x00000000a0000008                _data_end = .
                 0x00000000a0000008                _bss_begin = .
 
-.sbss           0x00000000a0000008       0x14
+.sbss           0x00000000a0000008       0x10
                 0x00000000a0000008                _sbss_begin = .
  *(.dynsbss)
  *(.sbss .sbss.* .gnu.linkonce.sb.*)
  .sbss          0x00000000a0000008        0x8 build/default/production/encoder.o
+                0x00000000a0000008                cnt
  .sbss          0x00000000a0000010        0x4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(errno.o)
                 0x00000000a0000010                errno
  *(.scommon)
  .scommon       0x00000000a0000014        0x4 build/default/production/console32.o
                 0x00000000a0000014                _uLCDloops
- .scommon       0x00000000a0000018        0x4 build/default/production/encoder.o
-                0x00000000a0000018                cnt
-                0x00000000a000001c                _sbss_end = .
-                0x00000000a000001c                . = ALIGN (0x4)
+                0x00000000a0000018                _sbss_end = .
+                0x00000000a0000018                . = ALIGN (0x4)
 
-.bss            0x00000000a000001c       0x64
+.bss            0x00000000a0000018       0x64
  *(.dynbss)
  *(COMMON)
- COMMON         0x00000000a000001c       0x64 build/default/production/encoder.o
-                0x00000000a000001c                buf
-                0x00000000a0000080                . = ALIGN ((. != 0x0)?0x4:0x1)
-                0x00000000a0000080                . = ALIGN (0x4)
-                0x00000000a0000080                _end = .
-                0x00000000a0000080                _bss_end = .
+ COMMON         0x00000000a0000018       0x64 build/default/production/encoder.o
+                0x00000000a0000018                buf
+                0x00000000a000007c                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00000000a000007c                . = ALIGN (0x4)
+                0x00000000a000007c                _end = .
+                0x00000000a000007c                _bss_end = .
                 0x0000000000020000                _bmxdudba_address = LENGTH (kseg1_data_mem)
                 0x0000000000020000                _bmxdupba_address = LENGTH (kseg1_data_mem)
 
@@ -1711,69 +1709,69 @@ END GROUP
  *.elf(.debug_pubnames)
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000   0x12f6b7
+.debug_info     0x0000000000000000   0x12f6aa
  *.elf(.debug_info .gnu.linkonce.wi.*)
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x0000000000000000    0x325d9 build/default/production/main.o
- .debug_info    0x00000000000325d9    0x32344 build/default/production/initBoard.o
- .debug_info    0x000000000006491d    0x323e9 build/default/production/Tick_core.o
- .debug_info    0x0000000000096d06    0x327a0 build/default/production/console32.o
- .debug_info    0x00000000000c94a6    0x3279b build/default/production/queue.o
- .debug_info    0x00000000000fbc41    0x3268e build/default/production/encoder.o
- .debug_info    0x000000000012e2cf       0x41 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x000000000012e310       0x3f d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
- .debug_info    0x000000000012e34f       0x3f d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
- .debug_info    0x000000000012e38e       0x41 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
- .debug_info    0x000000000012e3cf       0x40 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
- .debug_info    0x000000000012e40f      0x85c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
- .debug_info    0x000000000012ec6b      0x8d4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
- .debug_info    0x000000000012f53f       0xae d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
- .debug_info    0x000000000012f5ed       0x40 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
- .debug_info    0x000000000012f62d       0x4a d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
- .debug_info    0x000000000012f677       0x40 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
+ .debug_info    0x0000000000000000    0x325ea build/default/production/main.o
+ .debug_info    0x00000000000325ea    0x32344 build/default/production/initBoard.o
+ .debug_info    0x000000000006492e    0x323e9 build/default/production/Tick_core.o
+ .debug_info    0x0000000000096d17    0x327a0 build/default/production/console32.o
+ .debug_info    0x00000000000c94b7    0x3279b build/default/production/queue.o
+ .debug_info    0x00000000000fbc52    0x32670 build/default/production/encoder.o
+ .debug_info    0x000000000012e2c2       0x41 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x000000000012e303       0x3f d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_info    0x000000000012e342       0x3f d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x000000000012e381       0x41 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .debug_info    0x000000000012e3c2       0x40 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+ .debug_info    0x000000000012e402      0x85c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
+ .debug_info    0x000000000012ec5e      0x8d4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
+ .debug_info    0x000000000012f532       0xae d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+ .debug_info    0x000000000012f5e0       0x40 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
+ .debug_info    0x000000000012f620       0x4a d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
+ .debug_info    0x000000000012f66a       0x40 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
 
-.debug_abbrev   0x0000000000000000     0x13b6
+.debug_abbrev   0x0000000000000000     0x13ce
  *.elf(.debug_abbrev)
  *(.debug_abbrev)
- .debug_abbrev  0x0000000000000000      0x213 build/default/production/main.o
- .debug_abbrev  0x0000000000000213      0x180 build/default/production/initBoard.o
- .debug_abbrev  0x0000000000000393      0x223 build/default/production/Tick_core.o
- .debug_abbrev  0x00000000000005b6      0x326 build/default/production/console32.o
- .debug_abbrev  0x00000000000008dc      0x29c build/default/production/queue.o
- .debug_abbrev  0x0000000000000b78      0x266 build/default/production/encoder.o
- .debug_abbrev  0x0000000000000dde       0x31 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_abbrev  0x0000000000000e0f       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
- .debug_abbrev  0x0000000000000e3d       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
- .debug_abbrev  0x0000000000000e6b       0x31 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
- .debug_abbrev  0x0000000000000e9c       0x31 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
- .debug_abbrev  0x0000000000000ecd      0x1d8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
- .debug_abbrev  0x00000000000010a5      0x1ee d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
- .debug_abbrev  0x0000000000001293       0x90 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
- .debug_abbrev  0x0000000000001323       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
- .debug_abbrev  0x0000000000001351       0x37 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
- .debug_abbrev  0x0000000000001388       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
+ .debug_abbrev  0x0000000000000000      0x22b build/default/production/main.o
+ .debug_abbrev  0x000000000000022b      0x180 build/default/production/initBoard.o
+ .debug_abbrev  0x00000000000003ab      0x223 build/default/production/Tick_core.o
+ .debug_abbrev  0x00000000000005ce      0x326 build/default/production/console32.o
+ .debug_abbrev  0x00000000000008f4      0x29c build/default/production/queue.o
+ .debug_abbrev  0x0000000000000b90      0x266 build/default/production/encoder.o
+ .debug_abbrev  0x0000000000000df6       0x31 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x0000000000000e27       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_abbrev  0x0000000000000e55       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_abbrev  0x0000000000000e83       0x31 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .debug_abbrev  0x0000000000000eb4       0x31 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+ .debug_abbrev  0x0000000000000ee5      0x1d8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000010bd      0x1ee d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x00000000000012ab       0x90 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+ .debug_abbrev  0x000000000000133b       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
+ .debug_abbrev  0x0000000000001369       0x37 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
+ .debug_abbrev  0x00000000000013a0       0x2e d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
 
-.debug_line     0x0000000000000000     0x21a7
+.debug_line     0x0000000000000000     0x21b1
  *.elf(.debug_line)
  *(.debug_line)
- .debug_line    0x0000000000000000      0x18c build/default/production/main.o
- .debug_line    0x000000000000018c      0x192 build/default/production/initBoard.o
- .debug_line    0x000000000000031e      0x1b1 build/default/production/Tick_core.o
- .debug_line    0x00000000000004cf      0x53a build/default/production/console32.o
- .debug_line    0x0000000000000a09      0x2bf build/default/production/queue.o
- .debug_line    0x0000000000000cc8      0x31e build/default/production/encoder.o
- .debug_line    0x0000000000000fe6       0xca d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x00000000000010b0       0xa6 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
- .debug_line    0x0000000000001156       0xaa d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
- .debug_line    0x0000000000001200       0xc8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
- .debug_line    0x00000000000012c8       0xc9 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
- .debug_line    0x0000000000001391      0x490 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
- .debug_line    0x0000000000001821      0x4d9 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
- .debug_line    0x0000000000001cfa      0x1af d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
- .debug_line    0x0000000000001ea9      0x12d d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
- .debug_line    0x0000000000001fd6       0xb0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
- .debug_line    0x0000000000002086        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(xc32_uart.o)
- .debug_line    0x0000000000002086      0x121 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
+ .debug_line    0x0000000000000000      0x190 build/default/production/main.o
+ .debug_line    0x0000000000000190      0x192 build/default/production/initBoard.o
+ .debug_line    0x0000000000000322      0x1b1 build/default/production/Tick_core.o
+ .debug_line    0x00000000000004d3      0x53a build/default/production/console32.o
+ .debug_line    0x0000000000000a0d      0x2bf build/default/production/queue.o
+ .debug_line    0x0000000000000ccc      0x324 build/default/production/encoder.o
+ .debug_line    0x0000000000000ff0       0xca d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00000000000010ba       0xa6 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_line    0x0000000000001160       0xaa d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x000000000000120a       0xc8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .debug_line    0x00000000000012d2       0xc9 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+ .debug_line    0x000000000000139b      0x490 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
+ .debug_line    0x000000000000182b      0x4d9 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
+ .debug_line    0x0000000000001d04      0x1af d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+ .debug_line    0x0000000000001eb3      0x12d d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
+ .debug_line    0x0000000000001fe0       0xb0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
+ .debug_line    0x0000000000002090        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(xc32_uart.o)
+ .debug_line    0x0000000000002090      0x121 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
 
 .debug_frame    0x0000000000000000      0x87c
  *.elf(.debug_frame)
@@ -1796,27 +1794,27 @@ END GROUP
  .debug_frame   0x0000000000000808       0x38 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
  .debug_frame   0x0000000000000840       0x3c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
 
-.debug_str      0x0000000000000000    0x6323e
+.debug_str      0x0000000000000000    0x63233
  *.elf(.debug_str)
  *(.debug_str)
- .debug_str     0x0000000000000000    0x100ee build/default/production/main.o
- .debug_str     0x00000000000100ee     0xffc0 build/default/production/initBoard.o
- .debug_str     0x00000000000200ae    0x10006 build/default/production/Tick_core.o
- .debug_str     0x00000000000300b4    0x1011c build/default/production/console32.o
- .debug_str     0x00000000000401d0    0x1015d build/default/production/queue.o
- .debug_str     0x000000000005032d    0x10163 build/default/production/encoder.o
- .debug_str     0x0000000000060490      0x3b3 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_str     0x0000000000060843      0x38d d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
- .debug_str     0x0000000000060bd0      0x395 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
- .debug_str     0x0000000000060f65      0x3af d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
- .debug_str     0x0000000000061314      0x3a7 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
- .debug_str     0x00000000000616bb      0x4e3 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
- .debug_str     0x0000000000061b9e      0x4e3 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
- .debug_str     0x0000000000062081      0x3ad d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
- .debug_str     0x000000000006242e      0x386 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
- .debug_str     0x00000000000627b4      0x388 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
- .debug_str     0x0000000000062b3c      0x37c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(xc32_uart.o)
- .debug_str     0x0000000000062eb8      0x386 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
+ .debug_str     0x0000000000000000    0x100f6 build/default/production/main.o
+ .debug_str     0x00000000000100f6     0xffc0 build/default/production/initBoard.o
+ .debug_str     0x00000000000200b6    0x10006 build/default/production/Tick_core.o
+ .debug_str     0x00000000000300bc    0x1011c build/default/production/console32.o
+ .debug_str     0x00000000000401d8    0x1015d build/default/production/queue.o
+ .debug_str     0x0000000000050335    0x10150 build/default/production/encoder.o
+ .debug_str     0x0000000000060485      0x3b3 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_str     0x0000000000060838      0x38d d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_str     0x0000000000060bc5      0x395 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_str     0x0000000000060f5a      0x3af d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .debug_str     0x0000000000061309      0x3a7 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+ .debug_str     0x00000000000616b0      0x4e3 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
+ .debug_str     0x0000000000061b93      0x4e3 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
+ .debug_str     0x0000000000062076      0x3ad d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+ .debug_str     0x0000000000062423      0x386 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
+ .debug_str     0x00000000000627a9      0x388 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
+ .debug_str     0x0000000000062b31      0x37c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(xc32_uart.o)
+ .debug_str     0x0000000000062ead      0x386 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
 
 .debug_loc      0x0000000000000000     0x1630
  *.elf(.debug_loc)
@@ -1887,11 +1885,11 @@ END GROUP
  .gnu.attributes
                 0x0000000000000060       0x10 build/default/production/encoder.o
  .gnu.attributes
-                0x0000000000000070       0x10 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+                0x0000000000000070       0x10 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
  .gnu.attributes
-                0x0000000000000080       0x10 C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
+                0x0000000000000080       0x10 C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
  .gnu.attributes
-                0x0000000000000090       0x10 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+                0x0000000000000090       0x10 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
  .gnu.attributes
                 0x00000000000000a0       0x10 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
  .gnu.attributes
@@ -2055,28 +2053,28 @@ LOAD data_init
 .reginfo        0x0000000000000000       0x18
  .reginfo       0x0000000000000000       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\debug-exception-return.o
 
-.stack          0x00000000a0000858      0x400
- .stack         0x00000000a0000858      0x400 stack
+.stack          0x00000000a0000850      0x400
+ .stack         0x00000000a0000850      0x400 stack
 
-.data           0x00000000a0000080      0x4e4
- .data          0x00000000a0000080      0x410 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
-                0x00000000a0000080                malloc_sbrk_base
-                0x00000000a0000084                malloc_trim_threshold
-                0x00000000a0000088                malloc_av_
- .data          0x00000000a0000490       0xd4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobdata.o)
+.data           0x00000000a000007c      0x4e4
+ .data          0x00000000a000007c      0x410 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
+                0x00000000a000007c                malloc_sbrk_base
+                0x00000000a0000080                malloc_trim_threshold
+                0x00000000a0000084                malloc_av_
+ .data          0x00000000a000048c       0xd4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobdata.o)
 
-.bss            0x00000000a0000564       0xbc
- .bss           0x00000000a0000564       0x88 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobdata.o)
- .bss           0x00000000a00005ec       0x34 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
-                0x00000000a00005ec                malloc_current_mallinfo
-                0x00000000a0000614                malloc_max_total_mem
-                0x00000000a0000618                malloc_max_sbrked_mem
-                0x00000000a000061c                malloc_top_pad
+.bss            0x00000000a0000560       0xbc
+ .bss           0x00000000a0000560       0x88 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobdata.o)
+ .bss           0x00000000a00005e8       0x34 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
+                0x00000000a00005e8                malloc_current_mallinfo
+                0x00000000a0000610                malloc_max_total_mem
+                0x00000000a0000614                malloc_max_sbrked_mem
+                0x00000000a0000618                malloc_top_pad
 
-.bss            0x00000000a0000620       0x24
- .bss           0x00000000a0000620       0x24 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
-                0x00000000a000063c                _maxbrk
-                0x00000000a0000640                _minbrk
+.bss            0x00000000a000061c       0x24
+ .bss           0x00000000a000061c       0x24 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+                0x00000000a0000638                _maxbrk
+                0x00000000a000063c                _minbrk
 
 .bss%z1         0x0000000000000000        0x0
  .bss           0x0000000000000000        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
@@ -2532,22 +2530,22 @@ LOAD data_init
  .data          0x0000000000000000        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
 
 .bss%z152       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+ .bss           0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
 
 .data%z153      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+ .data          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
 
 .bss%z154       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
+ .bss           0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
 
 .data%z155      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
+ .data          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
 
 .bss%z156       0x0000000000000000        0x0
- .bss           0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .bss           0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
 
 .data%z157      0x0000000000000000        0x0
- .data          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .data          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
 
 .bss%z158       0x0000000000000000        0x0
  .bss           0x0000000000000000        0x0 build/default/production/encoder.o
@@ -2627,274 +2625,274 @@ LOAD data_init
  .text.malloc   0x000000009d001848      0x6d0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
                 0x000000009d001848                malloc
 
-.text           0x000000009d001f18      0x648
- .text          0x000000009d001f18      0x648 build/default/production/encoder.o
+.text           0x000000009d001f18      0x67c
+ .text          0x000000009d001f18      0x67c build/default/production/encoder.o
                 0x000000009d001f18                task1
 
-.dinit          0x000000009d002560      0x570
- .dinit         0x000000009d002560      0x570 data_init
+.dinit          0x000000009d002594      0x570
+ .dinit         0x000000009d002594      0x570 data_init
 
-.text           0x000000009d002ad0      0x7e4
- .text          0x000000009d002ad0      0x3f8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
-                0x000000009d002ad0                __umoddi3
- .text          0x000000009d002ec8      0x3ec d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
-                0x000000009d002ec8                __udivdi3
+.text           0x000000009d002b04      0x7e4
+ .text          0x000000009d002b04      0x3f8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_umoddi3.o)
+                0x000000009d002b04                __umoddi3
+ .text          0x000000009d002efc      0x3ec d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1\libgcc.a(_udivdi3.o)
+                0x000000009d002efc                __udivdi3
 
-.text           0x000000009d0032b4      0x364
- .text          0x000000009d0032b4      0x364 build/default/production/queue.o
-                0x000000009d0032b4                xQueueCreate
-                0x000000009d0033c8                xQueueSendToBack
-                0x000000009d003484                xQueueReceive
+.text           0x000000009d0032e8      0x364
+ .text          0x000000009d0032e8      0x364 build/default/production/queue.o
+                0x000000009d0032e8                xQueueCreate
+                0x000000009d0033fc                xQueueSendToBack
+                0x000000009d0034b8                xQueueReceive
 
-.text.free      0x000000009d003618      0x268
- .text.free     0x000000009d003618      0x268 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
-                0x000000009d003618                free
+.text.free      0x000000009d00364c      0x268
+ .text.free     0x000000009d00364c      0x268 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
+                0x000000009d00364c                free
 
-.text           0x000000009d003880      0x440
- .text          0x000000009d003880      0x224 build/default/production/initBoard.o
-                0x000000009d003880                initIO
-                0x000000009d0039dc                initTimer2
- .text          0x000000009d003aa4      0x21c build/default/production/Tick_core.o
-                0x000000009d003aa4                delay_us
-                0x000000009d003b10                delay_ticks
-                0x000000009d003b70                TickGet
-                0x000000009d003bb0                TickCoreReset
-                0x000000009d003be8                TickDiff
+.text           0x000000009d0038b4      0x440
+ .text          0x000000009d0038b4      0x224 build/default/production/initBoard.o
+                0x000000009d0038b4                initIO
+                0x000000009d003a10                initTimer2
+ .text          0x000000009d003ad8      0x21c build/default/production/Tick_core.o
+                0x000000009d003ad8                delay_us
+                0x000000009d003b44                delay_ticks
+                0x000000009d003ba4                TickGet
+                0x000000009d003be4                TickCoreReset
+                0x000000009d003c1c                TickDiff
 
-.text           0x000000009d003cc0      0x168
- .text          0x000000009d003cc0      0x168 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(strlen.o)
-                0x000000009d003cc0                strlen
+.text           0x000000009d003cf4      0x168
+ .text          0x000000009d003cf4      0x168 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(strlen.o)
+                0x000000009d003cf4                strlen
 
 .text._sbrk_init
-                0x000000009d003e28      0x154
+                0x000000009d003e5c      0x154
  .text._sbrk_init
-                0x000000009d003e28      0x154 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
-                0x000000009d003e28                _sbrk_init
+                0x000000009d003e5c      0x154 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+                0x000000009d003e5c                _sbrk_init
 
 .text._mon_getc
-                0x000000009d003f7c      0x134
+                0x000000009d003fb0      0x134
  .text._mon_getc
-                0x000000009d003f7c      0x134 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
-                0x000000009d003f7c                _mon_getc
+                0x000000009d003fb0      0x134 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_getc.o)
+                0x000000009d003fb0                _mon_getc
 
 .text._mon_putc
-                0x000000009d0040b0      0x128
+                0x000000009d0040e4      0x128
  .text._mon_putc
-                0x000000009d0040b0      0x128 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
-                0x000000009d0040b0                _mon_putc
+                0x000000009d0040e4      0x128 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
+                0x000000009d0040e4                _mon_putc
 
 .text.malloc_trim
-                0x000000009d0041d8      0x104
+                0x000000009d00420c      0x104
  .text.malloc_trim
-                0x000000009d0041d8      0x104 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
-                0x000000009d0041d8                malloc_trim
+                0x000000009d00420c      0x104 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(malloc.o)
+                0x000000009d00420c                malloc_trim
 
 .text._outcnvrt
-                0x000000009d0042dc       0xe8
+                0x000000009d004310       0xe8
  .text._outcnvrt
-                0x000000009d0042dc       0xe8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x000000009d004310       0xe8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
 
 .text.general_exception
-                0x000000009d0043c4       0xdc
+                0x000000009d0043f8       0xdc
  .text.general_exception
-                0x000000009d0043c4       0xdc d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(general-exception.o)
-                0x000000009d0043c4                _general_exception_context
+                0x000000009d0043f8       0xdc d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+                0x000000009d0043f8                _general_exception_context
 
 .text._flsbuf_simple
-                0x000000009d0044a0       0xd4
+                0x000000009d0044d4       0xd4
  .text._flsbuf_simple
-                0x000000009d0044a0       0xd4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
-                0x000000009d0044a0                _flsbuf_simple
+                0x000000009d0044d4       0xd4 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
+                0x000000009d0044d4                _flsbuf_simple
 
-.text._sbrk     0x000000009d004574       0xb0
- .text._sbrk    0x000000009d004574       0xb0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
-                0x000000009d004574                _sbrk
+.text._sbrk     0x000000009d0045a8       0xb0
+ .text._sbrk    0x000000009d0045a8       0xb0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+                0x000000009d0045a8                _sbrk
 
 .text.repl.constprop.0
-                0x000000009d004624       0xa8
+                0x000000009d004658       0xa8
  .text.repl.constprop.0
-                0x000000009d004624       0xa8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x000000009d004658       0xa8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
 
-.text           0x000000009d0046cc       0xa8
- .text          0x000000009d0046cc       0xa8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(memset.o)
-                0x000000009d0046cc                memset
+.text           0x000000009d004700       0xa8
+ .text          0x000000009d004700       0xa8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(memset.o)
+                0x000000009d004700                memset
 
-.text.fputc     0x000000009d004774       0xa0
- .text.fputc    0x000000009d004774       0xa0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(fputc.o)
-                0x000000009d004774                fputc
+.text.fputc     0x000000009d0047a8       0xa0
+ .text.fputc    0x000000009d0047a8       0xa0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(fputc.o)
+                0x000000009d0047a8                fputc
 
-.text           0x000000009d004814       0x84
- .text          0x000000009d004814       0x84 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
-                0x000000009d004814                __pic32_data_init
+.text           0x000000009d004848       0x84
+ .text          0x000000009d004848       0x84 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
+                0x000000009d004848                __pic32_data_init
 
 .text._fwrite_simple
-                0x000000009d004898       0x74
+                0x000000009d0048cc       0x74
  .text._fwrite_simple
-                0x000000009d004898       0x74 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
-                0x000000009d004898                _fwrite_simple
+                0x000000009d0048cc       0x74 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
+                0x000000009d0048cc                _fwrite_simple
 
 .text._fflush_simple
-                0x000000009d00490c       0x70
+                0x000000009d004940       0x70
  .text._fflush_simple
-                0x000000009d00490c       0x70 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
-                0x000000009d00490c                _fflush_simple
+                0x000000009d004940       0x70 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
+                0x000000009d004940                _fflush_simple
 
 .text._sprintf_cdnopuxX
-                0x000000009d00497c       0x60
+                0x000000009d0049b0       0x60
  .text._sprintf_cdnopuxX
-                0x000000009d00497c       0x60 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(sprintf_cdnopuxX.eo)
-                0x000000009d00497c                _sprintf_cdnopuxX
+                0x000000009d0049b0       0x60 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(sprintf_cdnopuxX.eo)
+                0x000000009d0049b0                _sprintf_cdnopuxX
 
 .text.main_entry
-                0x000000009d0049dc       0x54
+                0x000000009d004a10       0x54
  .text.main_entry
-                0x000000009d0049dc       0x54 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
-                0x000000009d004a10                __crt0_exit
+                0x000000009d004a10       0x54 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
+                0x000000009d004a44                __crt0_exit
 
 .text._mon_write
-                0x000000009d004a30       0x54
+                0x000000009d004a64       0x54
  .text._mon_write
-                0x000000009d004a30       0x54 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
-                0x000000009d004a30                _mon_write
+                0x000000009d004a64       0x54 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_write.o)
+                0x000000009d004a64                _mon_write
 
-.text.sbrk      0x000000009d004a84       0x4c
- .text.sbrk     0x000000009d004a84       0x4c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
-                0x000000009d004a84                sbrk
+.text.sbrk      0x000000009d004ab8       0x4c
+ .text.sbrk     0x000000009d004ab8       0x4c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+                0x000000009d004ab8                sbrk
 
 .text._bootstrap_exception_handler
-                0x000000009d004ad0       0x48
+                0x000000009d004b04       0x48
  .text._bootstrap_exception_handler
-                0x000000009d004ad0       0x48 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
-                0x000000009d004ad0                _bootstrap_exception_handler
+                0x000000009d004b04       0x48 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+                0x000000009d004b04                _bootstrap_exception_handler
 
 .text._general_exception_handler
-                0x000000009d004b18       0x48
+                0x000000009d004b4c       0x48
  .text._general_exception_handler
-                0x000000009d004b18       0x48 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
-                0x000000009d004b18                _general_exception_handler
+                0x000000009d004b4c       0x48 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+                0x000000009d004b4c                _general_exception_handler
 
 .vector_default
-                0x000000009d004b60       0x48
+                0x000000009d004b94       0x48
  .vector_default
-                0x000000009d004b60       0x48 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
-                0x000000009d004b60                _DefaultInterrupt
+                0x000000009d004b94       0x48 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+                0x000000009d004b94                _DefaultInterrupt
 
-.text           0x000000009d004ba8       0x44
- .text          0x000000009d004ba8       0x44 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
-                0x000000009d004ba8                __pic32_software_reset
+.text           0x000000009d004bdc       0x44
+ .text          0x000000009d004bdc       0x44 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\pic32_software_reset.o
+                0x000000009d004bdc                __pic32_software_reset
 
 .text._filbuf_simple
-                0x000000009d004bec       0x34
+                0x000000009d004c20       0x34
  .text._filbuf_simple
-                0x000000009d004bec       0x34 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
-                0x000000009d004bec                _filbuf_simple
+                0x000000009d004c20       0x34 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
+                0x000000009d004c20                _filbuf_simple
+
+.text           0x000000009d004c54       0x30
+ .text          0x000000009d004c54       0x30 build/default/production/main.o
+                0x000000009d004c54                main
 
 .text._fsync_simple
-                0x000000009d004c20       0x30
+                0x000000009d004c84       0x30
  .text._fsync_simple
-                0x000000009d004c20       0x30 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
-                0x000000009d004c20                _fsync_simple
+                0x000000009d004c84       0x30 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
+                0x000000009d004c84                _fsync_simple
 
 .text._stub_sbd_memlayout
-                0x000000009d004c50       0x2c
+                0x000000009d004cb4       0x2c
  .text._stub_sbd_memlayout
-                0x000000009d004c50       0x2c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
-                0x000000009d004c50                _sbd_memlayout
-                0x000000009d004c50                _stub_sbd_memlayout
+                0x000000009d004cb4       0x2c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+                0x000000009d004cb4                _sbd_memlayout
+                0x000000009d004cb4                _stub_sbd_memlayout
 
-.text.putchar   0x000000009d004c7c       0x24
- .text.putchar  0x000000009d004c7c       0x24 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(fputc.o)
-                0x000000009d004c7c                putchar
+.text.putchar   0x000000009d004ce0       0x24
+ .text.putchar  0x000000009d004ce0       0x24 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(fputc.o)
+                0x000000009d004ce0                putchar
 
-.text           0x000000009d004ca0       0x20
- .text          0x000000009d004ca0       0x20 build/default/production/main.o
-                0x000000009d004ca0                main
-
-.rodata         0x000000009d004cc0       0x20
- .rodata        0x000000009d004cc0       0x20 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
+.rodata         0x000000009d004d04       0x20
+ .rodata        0x000000009d004d04       0x20 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
 
 .text._vfprintf_cdnopuxX
-                0x000000009d004ce0       0x1c
+                0x000000009d004d24       0x1c
  .text._vfprintf_cdnopuxX
-                0x000000009d004ce0       0x1c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
-                0x000000009d004ce0                _vfprintf_cdnopuxX
+                0x000000009d004d24       0x1c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x000000009d004d24                _vfprintf_cdnopuxX
 
-.text.putc      0x000000009d004cfc       0x1c
- .text.putc     0x000000009d004cfc       0x1c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(fputc.o)
-                0x000000009d004cfc                putc
+.text.putc      0x000000009d004d40       0x1c
+ .text.putc     0x000000009d004d40       0x1c d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(fputc.o)
+                0x000000009d004d40                putc
 
-.MIPS.abiflags  0x000000009d004d18       0x18
+.MIPS.abiflags  0x000000009d004d60       0x18
  .MIPS.abiflags
-                0x000000009d004d18       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\debug-exception-return.o
+                0x000000009d004d60       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\debug-exception-return.o
 
-.text           0x000000009d004d30       0x18
- .text          0x000000009d004d30       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
-                0x000000009d004d30                _nmi_handler
+.text           0x000000009d004d78       0x18
+ .text          0x000000009d004d78       0x18 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+                0x000000009d004d78                _nmi_handler
 
-.text._io_exit  0x000000009d004d48       0x14
+.text._io_exit  0x000000009d004d90       0x14
  .text._io_exit
-                0x000000009d004d48       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
-                0x000000009d004d48                _io_exit
+                0x000000009d004d90       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x000000009d004d90                _io_exit
 
-.rodata         0x000000009d004d5c       0x14
- .rodata        0x000000009d004d5c       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobdata.o)
-                0x000000009d004d5c                _io_funcs
+.rodata         0x000000009d004da4       0x14
+ .rodata        0x000000009d004da4       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobdata.o)
+                0x000000009d004da4                _io_funcs
 
-.text._io_exit  0x000000009d004d70       0x14
+.text._io_exit  0x000000009d004db8       0x14
  .text._io_exit
-                0x000000009d004d70       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
+                0x000000009d004db8       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobfuncs.o)
 
-.rodata         0x000000009d004d84       0x20
- .rodata        0x000000009d004d84       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
-                0x000000009d004d84                _io_strfuncs
- .rodata        0x000000009d004d98        0xc build/default/production/encoder.o
+.rodata         0x000000009d004dcc       0x24
+ .rodata        0x000000009d004dcc       0x14 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
+                0x000000009d004dcc                _io_strfuncs
+ .rodata        0x000000009d004de0       0x10 build/default/production/encoder.o
 
 .text._on_reset
-                0x000000009d004da4        0x8
+                0x000000009d004df0        0x8
  .text._on_reset
-                0x000000009d004da4        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
-                0x000000009d004da4                _on_reset
+                0x000000009d004df0        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+                0x000000009d004df0                _on_reset
 
 .text._on_bootstrap
-                0x000000009d004dac        0x8
+                0x000000009d004df8        0x8
  .text._on_bootstrap
-                0x000000009d004dac        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
-                0x000000009d004dac                _on_bootstrap
+                0x000000009d004df8        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+                0x000000009d004df8                _on_bootstrap
 
-.rodata.str1.4  0x000000009d004db4        0x8
+.rodata.str1.4  0x000000009d004e00        0x8
  .rodata.str1.4
-                0x000000009d004db4        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
+                0x000000009d004e00        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_doprnt_cdnopuxX.eo)
 
 .text._filbuf_string
-                0x000000009d004dbc        0x8
+                0x000000009d004e08        0x8
  .text._filbuf_string
-                0x000000009d004dbc        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
+                0x000000009d004e08        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
 
 .text._flsbuf_string
-                0x000000009d004dc4        0x8
+                0x000000009d004e10        0x8
  .text._flsbuf_string
-                0x000000009d004dc4        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
+                0x000000009d004e10        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
 
 .text._fflush_string
-                0x000000009d004dcc        0x8
+                0x000000009d004e18        0x8
  .text._fflush_string
-                0x000000009d004dcc        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
+                0x000000009d004e18        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
 
 .text._fwrite_string
-                0x000000009d004dd4        0x8
+                0x000000009d004e20        0x8
  .text._fwrite_string
-                0x000000009d004dd4        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
+                0x000000009d004e20        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
 
 .text._fsync_string
-                0x000000009d004ddc        0x8
+                0x000000009d004e28        0x8
  .text._fsync_string
-                0x000000009d004ddc        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
+                0x000000009d004e28        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\liblega-c.a(_iobstring.o)
 
 .text.getpagesize
-                0x000000009d004de4        0x8
+                0x000000009d004e30        0x8
  .text.getpagesize
-                0x000000009d004de4        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
-                0x000000009d004de4                getpagesize
+                0x000000009d004e30        0x8 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(sbrk.o)
+                0x000000009d004e30                getpagesize
 
 .text%z172      0x0000000000000000        0x0
  .text          0x0000000000000000        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(_mon_putc.o)
@@ -3110,13 +3108,13 @@ LOAD data_init
  .text          0x0000000000000000        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
 
 .text%z243      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\cczb3pi5.o
+ .text          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\cc3DnvPs.o
 
 .text%z244      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccgnEUCi.o
+ .text          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccUWNxk7.o
 
 .text%z245      0x0000000000000000        0x0
- .text          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccQqFvv5.o
+ .text          0x0000000000000000        0x0 C:\Users\laptop\AppData\Local\Temp\ccI9fevZ.o
 
 .text%z246      0x0000000000000000        0x0
  .text          0x0000000000000000        0x0 d:/mplab/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib\debug-exception-return.o
