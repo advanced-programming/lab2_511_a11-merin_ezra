@@ -1,10 +1,8 @@
 /**
    	FileName:     main.c
-	
- 
-	Description: 
+
       
- * * REVISION HISTORY:
+ * * REVISION HISTORY: SoftCom.c
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Author        	Date      	Version     Comments on this revision
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,26 +29,44 @@
  *                                          the shift and mask on the LATF5.
  *                                          However, I was not able to transmit
  *                                          it from the board to Tera and the 
- *                                          Oscilloscope.  
- *         
- *                                          
- * 	TODO: 
+ *                                          Oscilloscope.   		
+ *******************************************************************************
+      
+ * * REVISION HISTORY: Encoder.c
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * Author        	Date      	Version     Comments on this revision
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * Thommaipillai    21/09/2021  Alpha 1.0   Started coding encoder.c
+ * Kaushikmerin                             added case statements for each handler 
+ * 
+ *Thommaipillai     28/09/2021  Alpha 1.1   Finished state machine case statements
+ *Kaushikmerin                              and added code to function with board
  * 		
+ * Thommaipillai    05/10/2021  2.0         Encoder task has been debugged and fixed
+ * Kaushikmerin                             with LED and idletask() was added to show CPU
+ *                                          usage. Next step is to merge.
  *******************************************************************************/
-
+ 
 #include <xc.h>
 #include "Tick_core.h"
 #include <stdio.h>
-
+#include "initBoard.h"
+#include "encoder.h"
 
     
 int main( void){
-   
     
     initIO();
+    initLCD();
     initSoftCom();
+
     while(1){
+        
+        task1();
         softComTask();
+        //delay_us(100);
+        idleTask();
+        
     }
 
 }// main
