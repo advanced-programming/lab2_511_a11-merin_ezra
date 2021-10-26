@@ -2,6 +2,7 @@
 #include "Tick_core.h"
 #include <stdio.h>
 #include "initBoard.h"
+#include "include/queue.h"
 
 //#define S3  PORTDbits.RD6
 //#define S6  PORTDbits.RD7
@@ -11,6 +12,8 @@
 //static int32_t lastTick;
 int cnt = 0;
 char buf[100];
+QueueHandle_t *queue;
+
 
 #define PBstate PORTDbits.RD6
 #define encoderB PORTDbits.RD0
@@ -94,6 +97,7 @@ void task1(void) {
                 cnt--; 
                 LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
+                xQueueSendToBack(queue, &cnt);
                 fprintf2(C_LCD, buf);
                 state = SM3_HANDLER;
                 
@@ -103,6 +107,7 @@ void task1(void) {
                 cnt++;
                 LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
+                xQueueSendToBack(queue, &cnt);
                 fprintf2(C_LCD, buf);
                 state = SM0_HANDLER;
                 
@@ -121,6 +126,7 @@ void task1(void) {
                 cnt--;
                 LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
+                xQueueSendToBack(queue, &cnt);
                 fprintf2(C_LCD, buf);
                 state = SM0_HANDLER;
                   
@@ -130,6 +136,7 @@ void task1(void) {
                 cnt++; 
                 LATAbits.LATA0 ^= 1;
                 sprintf(buf, "Counter: %d  ", cnt);
+                xQueueSendToBack(queue, &cnt);
                 fprintf2(C_LCD, buf);
                 state = SM3_HANDLER;
                 
@@ -163,8 +170,20 @@ void task1(void) {
 	}
 }
 
-int getCount(void) {
+//int getCount(void) {
+//    
+//    return cnt; 
+//    
+//}
+
+void initTaskB(void){
     
-    return cnt; 
+    queue = xQueueCreate(50);
+
+}
+
+int readQueue(int* p) {
+    
+    return xQueueReceive(queue, &p);
     
 }
