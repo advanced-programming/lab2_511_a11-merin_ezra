@@ -25,7 +25,7 @@
 //(8MHz Crystal/ FPLLIDIV * FPLLMUL / FPLLODIV)
 // PBCLK = 40 MHz
 // Primary Osc w/PLL (HS+PLL)
-// WDT OFF, Peripheral Bus is CPU clockÃ·8
+// WDT OFF, Peripheral Bus is CPU clock÷8
 // Other options are default as per datasheet
 // see file:C:\Program Files (x86)\Microchip\xc32\v1.40\docs\config_docs\32mx795f512l.html
  

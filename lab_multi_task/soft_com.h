@@ -6,9 +6,18 @@
  */
 
 #ifndef SOFT_COM_H
-#define SOFT_COM_H
+#define	SOFT_COM_H
 
-void initSoftCom( void);
-void softComTask( void);
-
+#ifdef	__cplusplus
+extern "C" {
 #endif
+
+
+
+
+#ifdef	__cplusplus
+}
+#endif
+
+#endif	/* SOFT_COM_H */
+
