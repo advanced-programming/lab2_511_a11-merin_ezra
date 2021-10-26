@@ -3,5 +3,7 @@
 
 void task1( void);
 int getCount( void);
+int readQueue(int*);
+void initTaskB(void);
 
 #endif
