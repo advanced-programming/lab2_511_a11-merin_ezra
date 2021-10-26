@@ -18,12 +18,12 @@
  *                                          SM_START_BIT, SM_SEND_BIT, 
  *                                          and SM_STOP_BIT
  * 
- * Ezra-Fikru Asfaw 2021-09-28  V1.3        I modified SM_SEND_BIT_ENTRY
+ * Ezra-Fikru Asfaw 2021-10-05  V1.3        I modified SM_SEND_BIT_ENTRY
  *                                          and SM_SEND_BIT_HANDLER. I also 
  *                                          debug the code to understand the 
  *                                          flow of the code. 
  * 
-  * Ezra-Fikru Asfaw 2021-09-28  V1.4       I modified SM_SEND_BIT_ENTRY
+  * Ezra-Fikru Asfaw 2021-10-19  V1.4       I modified SM_SEND_BIT_ENTRY
  *                                          and SM_SEND_BIT_HANDLER, and 
  *                                          SM_STOP_BIT. I was able to see 
  *                                          the shift and mask on the LATF5.
@@ -45,12 +45,21 @@
  * Thommaipillai    05/10/2021  2.0         Encoder task has been debugged and fixed
  * Kaushikmerin                             with LED and idletask() was added to show CPU
  *                                          usage. Next step is to merge.
+ *******************************************************************************
+ * * REVISION HISTORY: main.c
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * Author        	Date      	Version     Comments on this revision
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * Merin & Ezra     26/10/2021  1.0         Merged and completed code. Implemented queue
+ *                                          function in order to print all values, even those
+ *                                          who were sent quicker. Prints value to both screen
+ *                                          as well as Tera Term.
  *******************************************************************************/
  
 #include <xc.h>
 #include "Tick_core.h"
 #include <stdio.h>
-#include "initBoard.h"
+#include "include/initBoard.h"
 #include "encoder.h"
 #include "soft_com.h"
 #include "console32.h"
@@ -61,6 +70,7 @@ int main( void){
     initIO();
     initLCD();
     initSoftCom();
+    initTaskB();
 
     while(1){
         
