@@ -4,7 +4,9 @@
 #include <stdio.h>
 #include "encoder.h"
 
-//#include "queue.h"
+#include "include/queue.h"
+
+extern QueueHandle_t *queue;
 
 #define BAUD_RATE 500
 //#define TICK_SECOND 80000000
@@ -13,7 +15,9 @@
 #define TIMEOUT_STOP  (TICKS_PER_SECOND*10)/BAUD_RATE
 
 
-
+int getCount(void);
+int readQueue(int*);
+int rx = 101;
 
 
 
@@ -49,7 +53,7 @@ void softComTask(void) {
 //int32_t rx=0;
 //int32_t delay = 10; //temporary vale for counter
 
-static char cChar[10];
+static char cChar[100];
 
 
 
@@ -72,16 +76,18 @@ static int i;
 
     //////////////SM_POLL/////////////////
     switch(state){
-    
+     
         case SM_POLL_HANDLER:
-//            if (xQueueReceive(queue,&rx) == 0){
-//                //do something whenever a new datum is received
-//            } 
-           i=0;
+            i=0;
+            //if (readQueue(&rx) == 0){
+            if(xQueueReceive(queue, &rx) ==0){
            
-           
-           sprintf(cChar,"count: %d", getCount());
-           state = SM_RETR_ENTRY;
+               sprintf(cChar,"count: %d\n\r", rx);
+               state = SM_RETR_ENTRY;
+               
+            }
+           //sprintf(cChar,"count: %d\n\r", getCount());
+           //state = SM_RETR_ENTRY;
             break;    
             
             
@@ -193,6 +199,3 @@ static int i;
 } // end of case  
 
 }// end of softComTask 
-
- 
-
