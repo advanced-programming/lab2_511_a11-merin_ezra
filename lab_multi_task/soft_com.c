@@ -2,6 +2,7 @@
 #include "Tick_core.h"
 #include "soft_com.h"
 #include <stdio.h>
+#include "encoder.h"
 
 //#include "queue.h"
 
@@ -39,11 +40,6 @@ void initSoftCom(void){
 
 /* Public interface to communicate with this task */ 
 
-int getCnt(void){ 
-
-return count; 
-
-} 
 
  
 
@@ -52,16 +48,16 @@ return count;
 void softComTask(void) { 
 //int32_t rx=0;
 //int32_t delay = 10; //temporary vale for counter
-//static int sizea = 10;
-static char cChar[50];
-//static int size = sizeof(cChar);
+
+static char cChar[10];
+
 
 
 
 static int i;
 
 
-//int mask_acsii_value;
+
 
 
 
@@ -82,9 +78,9 @@ static int i;
 //                //do something whenever a new datum is received
 //            } 
            i=0;
-           //cChar[6]= "TICKOO";
            
-           sprintf(cChar,"count: %d", 23);
+           
+           sprintf(cChar,"count: %d", getCount());
            state = SM_RETR_ENTRY;
             break;    
             
@@ -102,15 +98,7 @@ static int i;
                 i++;
                 state = SM_START_BIT_ENTRY;
             }
-//                if (i<=size){ //temporary counter
-//                    cChar[i] = acsii_value;
-//                    i++;
-//                    state = SM_RETR_ENTRY;  
-//                }
-//                else state = SM_POLL_HANDLER;
-            //acsii_value ='a';
-           
-           //state = SM_START_BIT_ENTRY;
+//               
            
             break;
             
