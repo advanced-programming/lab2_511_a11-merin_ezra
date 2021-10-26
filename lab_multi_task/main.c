@@ -52,6 +52,8 @@
 #include <stdio.h>
 #include "initBoard.h"
 #include "encoder.h"
+#include "soft_com.h"
+#include "console32.h"
 
     
 int main( void){

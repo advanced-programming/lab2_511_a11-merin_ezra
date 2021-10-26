@@ -162,3 +162,9 @@ void task1(void) {
 			break;
 	}
 }
+
+int getCount(void) {
+    
+    return cnt; 
+    
+}
